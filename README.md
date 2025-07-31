@@ -1,25 +1,19 @@
+# Zhanseit Zhanabil
 
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
-{}     _                   _     _ _ _      {}
-{}    | | __ _ _ __   __ _| |__ (_) | |     {}
-{} _  | |/ _` | '_ \ / _` | '_ \| | | |     {}
-{}| |_| | (_| | | | | (_| | |_) | | | |     {}
-{} \___/ \__,_|_| |_|\__,_|_.__/|_|_|_|____ {}
-{}                                   |_____|{}
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+2nd-year Cybersecurity student at AITU  
+From Astana 🇰🇿, 18 y.o.  
+Focused on automation, bots, and real-life tools
 
+### 💻 What I’ve done
+- OSINT, network scanning, phishing (учебный опыт)
+- Playing with Telegram bots, API, n8n, Whisper
+- Автоматизация голосов, ответов, базовые ассистенты
 
-_   _
- {_}
- |(|
- |=|
-/   \
-|.--|
-||  |
-||  |    .    ' .
-|'--|  '     \~~~/
-'-=-' \~~~/   \_/
-       \_/     Y
-        Y     _|_
-       _|_
-       
+### 🚧 Projects coming soon
+- Telegram voice-to-text auto-reply bot  
+- Personal assistant that remembers past messages  
+- OSINT mini-tool to collect public data
+
+### 📫 Contact
+Telegram: [@TPAXAET_Cyka](https://t.me/TPAXAET_Cyka)  
+Email: zshanabil@gmail.com
