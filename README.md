@@ -16,4 +16,4 @@ Focused on automation, bots, and real-life tools
 
 ### 📫 Contact
 Telegram: [@TPAXAET_Cyka](https://t.me/TPAXAET_Cyka)  
-Email: zshanabil@gmail.com
+
